@@ -1,4 +1,7 @@
-# Worksheet 2 Snippet
+# Worksheets
+Click on the worksheet you want in the list above. Don't worry about the snippet below, the worksheet will tell you when you might want to use it.
+
+## Worksheet 2 Snippet
 Because no one has time to type out that function from worksheet 2:
 ```R
 image_prep = function(x) {
